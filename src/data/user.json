@@ -1,0 +1,54 @@
+{
+    "Ca": "114166980309519534598",
+    "xc": {
+        "token_type": "Bearer",
+        "access_token": "ya29.A0AVA9y1v8XAW-gFAA4UPt9bov6Q7qge4dKY07i4deTL1FmfH9XLwV81hNzX6IMbmQu1XY95YRlybx_8YJD37ChiJjqCcdYmjI-nqCXygVU9GcHuwayeVC22PIltNsqUrJ43HFSoRJvY9jR9bJ1OuJNYV22iZ2aCgYKATASATASFQE65dr8UXW3x2qY0RaSVabNLmsofg0163",
+        "scope": "email profile https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+        "login_hint": "AJDLj6JUa8yxXrhHdWRHIV0S13cA_CGSeiFBYkucEjY7z7P-BWg69qI8MgRGgW3qC6a6aagagCC8uzA0sVtbz2dRGYMQfjQuhQ",
+        "expires_in": 3599,
+        "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwMmYzMDViNzA1ODEzMjlmZjI4OWI1YjNhNjcyODM4MDZlY2E4OTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiODQyMzIyNTcwMDczLWtuN2gzdjVpNnJodWluYmJ1aHE2cm1scm92ZjFia3BjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiODQyMzIyNTcwMDczLWtuN2gzdjVpNnJodWluYmJ1aHE2cm1scm92ZjFia3BjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE0MTY2OTgwMzA5NTE5NTM0NTk4IiwiZW1haWwiOiJycGlhczAzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRzJBLUdaQmZrZmZaamdUa2dObVE3USIsIm5hbWUiOiJSaWNoYXJkIFBpYXMiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FGZFp1Y3JzanNIYVlqM0Vud1ktNzN2VmtDWTFneE8zcGV6eUU4dU9LeGIzS1JJPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlJpY2hhcmQiLCJmYW1pbHlfbmFtZSI6IlBpYXMiLCJsb2NhbGUiOiJlcyIsImlhdCI6MTY2MTI3NzkwMywiZXhwIjoxNjYxMjgxNTAzLCJqdGkiOiIwYjc3NTQ5NTJiMWM4Yjc5MTIxOTk2OWFjNzE2NjUxYmM3Mjk4MzVjIn0.KjQ9Cmc0MpzX_fzZDAoz05gbeD7SD1wU0dzUGkyp7JyG74B488fwZwenxdAcBri1DfNrKa1RbIBhOtLoqfRf13b47GOyJhIuVAFmcEj_m7ONPZ01-Kgjj2GkT1zmI6zlT06nGP4-zBC8_E2xOnTlcw-Jw9p1sBovb91wQZbeQdXhzkYtjnkiGjFXwj4lu50nM6faZGhC6zulALd3mxSFvaBfGSeLVUHyD7ZvACLDrwS6tM6m37o1o578mmL0X7eBRf02HCu6OvSkSCkpXhBLDMcrOuxwu-jaORrL21XGe8rfVcnQc8XpY0slCmtaZ6cpIsqgiEz3y11tLbv0iayb4g",
+        "session_state": {
+            "extraQueryParams": {
+                "authuser": "2"
+            }
+        },
+        "first_issued_at": 1661277898170,
+        "expires_at": 1661281497170,
+        "idpId": "google"
+    },
+    "wt": {
+        "NT": "114166980309519534598",
+        "Ad": "Richard Pias",
+        "rV": "Richard",
+        "uT": "Pias",
+        "hK": "https://lh3.googleusercontent.com/a-/AFdZucrsjsHaYj3EnwY-73vVkCY1gxO3pezyE8uOKxb3KRI=s96-c",
+        "cu": "rpias03@gmail.com"
+    },
+    "googleId": "114166980309519534598",
+    "tokenObj": {
+        "token_type": "Bearer",
+        "access_token": "ya29.A0AVA9y1v8XAW-gFAA4UPt9bov6Q7qge4dKY07i4deTL1FmfH9XLwV81hNzX6IMbmQu1XY95YRlybx_8YJD37ChiJjqCcdYmjI-nqCXygVU9GcHuwayeVC22PIltNsqUrJ43HFSoRJvY9jR9bJ1OuJNYV22iZ2aCgYKATASATASFQE65dr8UXW3x2qY0RaSVabNLmsofg0163",
+        "scope": "email profile https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email openid",
+        "login_hint": "AJDLj6JUa8yxXrhHdWRHIV0S13cA_CGSeiFBYkucEjY7z7P-BWg69qI8MgRGgW3qC6a6aagagCC8uzA0sVtbz2dRGYMQfjQuhQ",
+        "expires_in": 3599,
+        "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwMmYzMDViNzA1ODEzMjlmZjI4OWI1YjNhNjcyODM4MDZlY2E4OTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiODQyMzIyNTcwMDczLWtuN2gzdjVpNnJodWluYmJ1aHE2cm1scm92ZjFia3BjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiODQyMzIyNTcwMDczLWtuN2gzdjVpNnJodWluYmJ1aHE2cm1scm92ZjFia3BjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE0MTY2OTgwMzA5NTE5NTM0NTk4IiwiZW1haWwiOiJycGlhczAzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRzJBLUdaQmZrZmZaamdUa2dObVE3USIsIm5hbWUiOiJSaWNoYXJkIFBpYXMiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FGZFp1Y3JzanNIYVlqM0Vud1ktNzN2VmtDWTFneE8zcGV6eUU4dU9LeGIzS1JJPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlJpY2hhcmQiLCJmYW1pbHlfbmFtZSI6IlBpYXMiLCJsb2NhbGUiOiJlcyIsImlhdCI6MTY2MTI3NzkwMywiZXhwIjoxNjYxMjgxNTAzLCJqdGkiOiIwYjc3NTQ5NTJiMWM4Yjc5MTIxOTk2OWFjNzE2NjUxYmM3Mjk4MzVjIn0.KjQ9Cmc0MpzX_fzZDAoz05gbeD7SD1wU0dzUGkyp7JyG74B488fwZwenxdAcBri1DfNrKa1RbIBhOtLoqfRf13b47GOyJhIuVAFmcEj_m7ONPZ01-Kgjj2GkT1zmI6zlT06nGP4-zBC8_E2xOnTlcw-Jw9p1sBovb91wQZbeQdXhzkYtjnkiGjFXwj4lu50nM6faZGhC6zulALd3mxSFvaBfGSeLVUHyD7ZvACLDrwS6tM6m37o1o578mmL0X7eBRf02HCu6OvSkSCkpXhBLDMcrOuxwu-jaORrL21XGe8rfVcnQc8XpY0slCmtaZ6cpIsqgiEz3y11tLbv0iayb4g",
+        "session_state": {
+            "extraQueryParams": {
+                "authuser": "2"
+            }
+        },
+        "first_issued_at": 1661277898170,
+        "expires_at": 1661281497170,
+        "idpId": "google"
+    },
+    "tokenId": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjQwMmYzMDViNzA1ODEzMjlmZjI4OWI1YjNhNjcyODM4MDZlY2E4OTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiODQyMzIyNTcwMDczLWtuN2gzdjVpNnJodWluYmJ1aHE2cm1scm92ZjFia3BjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiODQyMzIyNTcwMDczLWtuN2gzdjVpNnJodWluYmJ1aHE2cm1scm92ZjFia3BjLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTE0MTY2OTgwMzA5NTE5NTM0NTk4IiwiZW1haWwiOiJycGlhczAzQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiRzJBLUdaQmZrZmZaamdUa2dObVE3USIsIm5hbWUiOiJSaWNoYXJkIFBpYXMiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FGZFp1Y3JzanNIYVlqM0Vud1ktNzN2VmtDWTFneE8zcGV6eUU4dU9LeGIzS1JJPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlJpY2hhcmQiLCJmYW1pbHlfbmFtZSI6IlBpYXMiLCJsb2NhbGUiOiJlcyIsImlhdCI6MTY2MTI3NzkwMywiZXhwIjoxNjYxMjgxNTAzLCJqdGkiOiIwYjc3NTQ5NTJiMWM4Yjc5MTIxOTk2OWFjNzE2NjUxYmM3Mjk4MzVjIn0.KjQ9Cmc0MpzX_fzZDAoz05gbeD7SD1wU0dzUGkyp7JyG74B488fwZwenxdAcBri1DfNrKa1RbIBhOtLoqfRf13b47GOyJhIuVAFmcEj_m7ONPZ01-Kgjj2GkT1zmI6zlT06nGP4-zBC8_E2xOnTlcw-Jw9p1sBovb91wQZbeQdXhzkYtjnkiGjFXwj4lu50nM6faZGhC6zulALd3mxSFvaBfGSeLVUHyD7ZvACLDrwS6tM6m37o1o578mmL0X7eBRf02HCu6OvSkSCkpXhBLDMcrOuxwu-jaORrL21XGe8rfVcnQc8XpY0slCmtaZ6cpIsqgiEz3y11tLbv0iayb4g",
+    "accessToken": "ya29.A0AVA9y1v8XAW-gFAA4UPt9bov6Q7qge4dKY07i4deTL1FmfH9XLwV81hNzX6IMbmQu1XY95YRlybx_8YJD37ChiJjqCcdYmjI-nqCXygVU9GcHuwayeVC22PIltNsqUrJ43HFSoRJvY9jR9bJ1OuJNYV22iZ2aCgYKATASATASFQE65dr8UXW3x2qY0RaSVabNLmsofg0163",
+    "profileObj": {
+        "googleId": "114166980309519534598",
+        "imageUrl": "https://lh3.googleusercontent.com/a-/AFdZucrsjsHaYj3EnwY-73vVkCY1gxO3pezyE8uOKxb3KRI=s96-c",
+        "email": "rpias03@gmail.com",
+        "name": "Richard Pias",
+        "givenName": "Richard",
+        "familyName": "Pias"
+    }
+}
