@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
+import Button from "@mui/material/Button";
 import { GoogleLogin, GoogleLogout } from "react-google-login";
 import { gapi } from "gapi-script";
+import LoginIcon from '@mui/icons-material/Login';
+import InputIcon from '@mui/icons-material/Input';
 
 function AuthPage() {
   useEffect(() => {
@@ -15,7 +18,7 @@ function AuthPage() {
   }, []);
 
   const [user, setUser] = useState({});
-  const [isLogin, setIsLogin] = useState(false)
+  const [isLogin, setIsLogin] = useState(false);
 
   const onSuccess = (response) => {
     console.log("SUCCESS", response);
@@ -38,6 +41,16 @@ function AuthPage() {
         clientId={
           "842322570073-kn7h3v5i6rhuinbbuhq6rmlrovf1bkpc.apps.googleusercontent.com"
         }
+        render={(renderProps) => (
+          <Button
+            startIcon={<LoginIcon />}
+            onClick={renderProps.onClick}
+            disabled={renderProps.disabled}
+            variant="contained"
+          >
+            Loguearse
+          </Button>
+        )}
         onSuccess={onSuccess}
         onFailure={onFailure}
       />
@@ -46,19 +59,25 @@ function AuthPage() {
         clientId={
           "842322570073-kn7h3v5i6rhuinbbuhq6rmlrovf1bkpc.apps.googleusercontent.com"
         }
+        render={(renderProps) => (
+          <Button
+            startIcon={<InputIcon />}
+            onClick={renderProps.onClick}
+            disabled={renderProps.disabled}
+            variant="contained"
+          >
+            Salir
+          </Button>
+        )}
         onLogoutSuccess={onLogoutSuccess}
       />
-
       <div>
         {isLogin && <h2>{user.profileObj.name}</h2>}
         {isLogin && <h3>{user.profileObj.email}</h3>}
         {isLogin && <h3>{user.profileObj.googleId}</h3>}
         {isLogin && <img src={user.profileObj.imageUrl} alt="" />}
       </div>
-
-      <div>
-        {!isLogin && <h2>No hay nadie logueado</h2>}
-      </div>
+      <div>{!isLogin && <h2>No hay nadie logueado</h2>}</div>
     </div>
   );
 }
